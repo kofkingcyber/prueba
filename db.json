@@ -16,11 +16,11 @@
         "name": "===========CANAL INFORMATIVO============",
         "uri": "http://mundoiptvtucuman.s3.sa-east-1.amazonaws.com/Adobe_Spark_Video.mp4"
       },
-	  {
-        "id": 1,
-  "title": "hello"
+	
 
-      },
+
+
+
       {
         "name": "LA VOZ DE TUCUMAN RADIO 101.3",
         "uri": "https://subituradio.com:7002/;stream/1"
