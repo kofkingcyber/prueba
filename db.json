@@ -7,5 +7,40 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "lista": [
+  {
+    "name": "TV EN VIVO",
+    "samples": [
+      {
+        "name": "===========CANAL INFORMATIVO============",
+        "uri": "http://mundoiptvtucuman.s3.sa-east-1.amazonaws.com/Adobe_Spark_Video.mp4"
+      },
+	  {
+        "name": "LA VOZ DE TUCUMAN",
+        "uri": "http://lavozdetucuman.com/lavozdetucumantv.m3u8"
+      },
+      {
+        "name": "LA VOZ DE TUCUMAN RADIO 101.3",
+        "uri": "https://subituradio.com:7002/;stream/1"
+      },
+	  {
+        "name": "TEST DRIVE",
+        "uri": "http://107.167.7.213:5803/live/cyx_UFIkB9X58Btz0ncP.ts?user_id=29235768&dev_id=1539e177dde1bef1e5a0c045e5bb27e5&trans_id=hmO7r3O2qhnX_f5ggXNd37Qq0&dead_time=1601695545&app_id=com.mobile.telelatinomobile&host=107.167.7.213:5803&app_ver=30401&client_ip=181.3.161.52&auth_id=29235768_com.mobile.telelatinomobile&token=7dea6c29d4dd06af89302d1a626b543d"
+      },
+      {
+        "name": "SPTV (SAN PEDRO TV)",
+        "uri": "https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8"
+      },
+	  {
+        "name": "CANAL 10 SALTA",
+        "uri": "https://panel.dattalive.com/8068/8068/playlist.m3u8"
+      },
+	  {
+        "name": "CANAL 7 SALTA",
+        "uri": "https://589ff3c36f7e8.streamlock.net:443/crespo3/crespo3/playlist.m3u8"
+      }
+      ]
+    }
+    ]
 }
